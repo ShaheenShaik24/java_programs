@@ -1,11 +1,8 @@
-/* package codechef; // don't place package name! */
-
-
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-/* Name of the class has to be "Main" only if the class is public. */
+
 class Sum_Of _Two_Nos
 {
 	public static void main (String[] args) throws java.lang.Exception
@@ -20,9 +17,9 @@ class Sum_Of _Two_Nos
 	    int B=sc.nextInt();
 	    int C=sc.nextInt();
 		if(C==(A+B)){
-		   System.out.println("YES");
+		   System.out.println("YES..Sum of A and B is C"");
 		}else{
-		     System.out.println("NO");
+		     System.out.println("NO!! Sum of A and B is Not equals to C");
 		}
 	    }
 	}
